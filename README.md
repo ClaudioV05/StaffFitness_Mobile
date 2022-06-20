@@ -9,6 +9,7 @@ The following tools were used in building the project:
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React Native](https://reactnative.dev/)
+- [Styled Components](https://styled-components.com/)
  
 ![Display Login](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/dev/Doc/Assets/Dislpay_%20login.png)
 
