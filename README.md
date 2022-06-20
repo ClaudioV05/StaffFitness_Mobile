@@ -11,3 +11,6 @@
 ![Plan Choice](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/dev/Doc/Assets/Display_%20plan%20choice%202.png)
 
 ![Plan Choice 2](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/dev/Doc/Assets/Display_%20plan%20choice%202.png)
+
+![Plan Choice](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/dev/Doc/Assets/Display_%20plan%20choice%202.png)
+8d549fbfeb76c5a511906522c3879a49a8ba45a8
