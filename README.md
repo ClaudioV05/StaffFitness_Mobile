@@ -2,10 +2,14 @@
 
 ### This mobile app is part of the *StaffFitness* project
 
-- [X] Programming language: React Native
-- [X] Database: PostgreSQL
-- [X] API: Adonis JS
+### 🛠 development tools
 
+The following tools were used in building the project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React Native](https://reactnative.dev/)
+ 
 ![Display Login](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/dev/Doc/Assets/Dislpay_%20login.png)
 
 ![Plan Choice](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/main/Doc/Assets/Display_%20plan%20choice.png)
