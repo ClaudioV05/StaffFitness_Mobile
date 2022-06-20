@@ -1,9 +1,9 @@
 # StaffFitness - Mobile 
 
-### This mobile app is part of the 'Staff Fitness' project
+### This mobile app is part of the *StaffFitness* project
 
 - [X] Programming language: React Native
-- [X] Database: PostGreSQL
+- [X] Database: PostgreSQL
 - [X] API: Adonis JS
 
 ![Display Login](https://github.com/ClaudioV05/StaffFitness_Mobile/blob/dev/Doc/Assets/Dislpay_%20login.png)
